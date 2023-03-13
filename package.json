@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "wrangler dev --local --host 0.0.0.0"
+  },
+  "dependencies": {
+    "itty-router": "^3.0.11"
+  },
+  "devDependencies": {
+    "wrangler": "2.12.3"
+  }
+}
